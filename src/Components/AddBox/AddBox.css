@@ -1,0 +1,31 @@
+.AddBox{
+    display: none;
+    position: absolute;
+    width: 200px;
+    top: 80px;
+    right: 460px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #a6a6a6;
+}
+
+input{
+    width: 100px;
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid black;
+}
+
+.inputContainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+}
+
+select{
+    width: 110px;
+    padding: 5px;
+    border: 1px solid black;
+}
